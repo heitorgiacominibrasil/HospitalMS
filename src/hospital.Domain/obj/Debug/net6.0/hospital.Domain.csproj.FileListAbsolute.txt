@@ -1,0 +1,60 @@
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\bin\Debug\net6.0\hospital.Domain.deps.json
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\bin\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\bin\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.csproj.AssemblyReference.cache
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfoInputs.cache
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfo.cs
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.csproj.CoreCompileInputs.cache
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\refint\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\aspdotnetcore5.Domain\obj\Debug\net6.0\ref\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.deps.json
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.AssemblyReference.cache
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfoInputs.cache
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfo.cs
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.CoreCompileInputs.cache
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\refint\hospital.Domain.dll
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\Hospital-Management-System-ASPNETCORE\src\hospital.Domain\obj\Debug\net6.0\ref\hospital.Domain.dll
+C:\p\net\hospital\novo\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.deps.json
+C:\p\net\hospital\novo\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\novo\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.AssemblyReference.cache
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfoInputs.cache
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfo.cs
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.CoreCompileInputs.cache
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\refint\hospital.Domain.dll
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\novo\src\hospital.Domain\obj\Debug\net6.0\ref\hospital.Domain.dll
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.deps.json
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.AssemblyReference.cache
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfoInputs.cache
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfo.cs
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.CoreCompileInputs.cache
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\refint\hospital.Domain.dll
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\novo - Copy - Copy - Copy (2)\src\hospital.Domain\obj\Debug\net6.0\ref\hospital.Domain.dll
+C:\p\net\hospital\v1\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.deps.json
+C:\p\net\hospital\v1\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\v1\src\hospital.Domain\bin\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.AssemblyReference.cache
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfoInputs.cache
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.AssemblyInfo.cs
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.csproj.CoreCompileInputs.cache
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.dll
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\refint\hospital.Domain.dll
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\hospital.Domain.pdb
+C:\p\net\hospital\v1\src\hospital.Domain\obj\Debug\net6.0\ref\hospital.Domain.dll

@@ -1,0 +1,30 @@
+﻿
+
+<div class="panel panel-info">
+    <div class="panel panel-heading"><h4>Estado dos Pacientes</h4>&nbsp;<span>30</span></div>
+    <div class="panel panel-body">
+        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            @await Component.InvokeAsync("EstadoCritico", new {})
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            @await Component.InvokeAsync("EstadoEstavel", new {})
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            @await Component.InvokeAsync("EstadoGrave", new {})
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            @await Component.InvokeAsync("EstadoObservacao", new {})
+        </div>
+
+        <!--<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            <vc:estado-critico></vc:estado-critico>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            <vc:estado-estavel></vc:estado-estavel>
+        </div> 
+        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+            <vc:estado-observacao-view-component></vc:estado-observacao-view-component>
+        </div>
+        -->
+    </div>
+</div>

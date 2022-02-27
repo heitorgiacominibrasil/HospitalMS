@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31825.309
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentation", "1.Presentation", "{603DA44C-9D7A-47C0-8BD8-418A58122B1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Application", "2.Application", "{53B9F84A-4864-4785-8DAA-97CB08B44983}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Domain", "3.Domain", "{3941A170-102A-4300-B2EF-5F62E8410C7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Infrastructure", "4.Infrastructure", "{31A81610-FBB5-466B-905D-64A9E4F3AC91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAessLayer", "DataAessLayer", "{79DF5615-7E14-49C7-8FA1-3204B11F8F17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MapEntities", "MapEntities", "{E72F1CDC-1A9E-4587-AA48-8FF51019E3CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hospital.DataAcessLayer", "src\hospital.DataAcessLayer\hospital.DataAcessLayer.csproj", "{51723E67-33BE-4BC2-9B33-1FC434DB9394}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hospital.Domain", "src\hospital.Domain\hospital.Domain.csproj", "{6C43EB11-AF05-4926-A94E-5D24E0D81784}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mvc", "src\hospital.Presentation\mvc.csproj", "{76F5C9AE-A686-4E56-8B89-8F627909889C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51723E67-33BE-4BC2-9B33-1FC434DB9394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51723E67-33BE-4BC2-9B33-1FC434DB9394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51723E67-33BE-4BC2-9B33-1FC434DB9394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51723E67-33BE-4BC2-9B33-1FC434DB9394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C43EB11-AF05-4926-A94E-5D24E0D81784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C43EB11-AF05-4926-A94E-5D24E0D81784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C43EB11-AF05-4926-A94E-5D24E0D81784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C43EB11-AF05-4926-A94E-5D24E0D81784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79DF5615-7E14-49C7-8FA1-3204B11F8F17} = {31A81610-FBB5-466B-905D-64A9E4F3AC91}
+		{E72F1CDC-1A9E-4587-AA48-8FF51019E3CB} = {31A81610-FBB5-466B-905D-64A9E4F3AC91}
+		{51723E67-33BE-4BC2-9B33-1FC434DB9394} = {79DF5615-7E14-49C7-8FA1-3204B11F8F17}
+		{6C43EB11-AF05-4926-A94E-5D24E0D81784} = {3941A170-102A-4300-B2EF-5F62E8410C7C}
+		{76F5C9AE-A686-4E56-8B89-8F627909889C} = {603DA44C-9D7A-47C0-8BD8-418A58122B1B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBACD6A6-F226-43CD-B621-135B69B5828C}
+	EndGlobalSection
+EndGlobal

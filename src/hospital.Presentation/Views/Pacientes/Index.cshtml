@@ -1,0 +1,112 @@
+﻿@model IEnumerable<hospital.Domain.Models.Paciente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<partial name="PartialViews/_estado_paciente"/>
+
+<div class="panel panel-default panel-controls">
+    <div class="panel panel-heading">
+        <h3>Lista de Pacientes</h3>
+    </div>
+
+    <div class="panel panel-body">
+        <p>
+            <a asp-action="Create" class="btn btn-info">Create New</a>
+        </p>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DataNascimento)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.DataInternacao)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Ativo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.CPF)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.TipoPaciente)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Sexo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EstadoPaciente.Descricao)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.RG)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.RgOrgao)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.RgDataEmissao)
+                    </th> 
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DataNascimento)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DataInternacao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Ativo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CPF)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TipoPaciente)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Sexo)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EstadoPaciente.Descricao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RG)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RgOrgao)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RgDataEmissao)
+                        </td> 
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id"><span class="fa fa-pencil"></span></a>
+                            <a asp-action="Details" asp-route-id="@item.Id"><span class="fa fa-search"></span></a>
+                            <a asp-action="Delete" asp-route-id="@item.Id"><span class="fa fa-trash"></span></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>

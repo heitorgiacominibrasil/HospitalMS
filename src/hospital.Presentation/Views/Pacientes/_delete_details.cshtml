@@ -1,0 +1,87 @@
+﻿@model hospital.Domain.Models.Paciente
+
+<dl class="row">
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Nome)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Nome)
+    </dd>
+
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.DataNascimento)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.DataNascimento)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.DataInternacao)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.DataInternacao)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Email)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Email)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Ativo)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Ativo)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.CPF)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.CPF)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.TipoPaciente)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.TipoPaciente)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.Sexo)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.Sexo)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.EstadoPaciente)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.EstadoPaciente.Descricao)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.RG)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.RG)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.RgOrgao)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.RgOrgao)
+    </dd>
+    
+    <dt class="col-sm-2">
+        @Html.DisplayNameFor(model => model.RgDataEmissao)
+    </dt>
+    <dd class="col-sm-10">
+        @Html.DisplayFor(model => model.RgDataEmissao)
+    </dd>
+</dl>

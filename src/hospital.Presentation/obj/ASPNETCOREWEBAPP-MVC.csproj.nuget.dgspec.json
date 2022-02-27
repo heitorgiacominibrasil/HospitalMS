@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\ASPNETCOREWEBAPP-MVC\\ASPNETCOREWEBAPP-MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\ASPNETCOREWEBAPP-MVC\\ASPNETCOREWEBAPP-MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\ASPNETCOREWEBAPP-MVC\\ASPNETCOREWEBAPP-MVC.csproj",
+        "projectName": "ASPNETCOREWEBAPP-MVC",
+        "projectPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\ASPNETCOREWEBAPP-MVC\\ASPNETCOREWEBAPP-MVC.csproj",
+        "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
+        "outputPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\ASPNETCOREWEBAPP-MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.DataAcessLayer\\aspdotnetcore5.DataAcessLayer.csproj": {
+                "projectPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.DataAcessLayer\\aspdotnetcore5.DataAcessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.DataAcessLayer\\aspdotnetcore5.DataAcessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.DataAcessLayer\\aspdotnetcore5.DataAcessLayer.csproj",
+        "projectName": "aspdotnetcore5.DataAcessLayer",
+        "projectPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.DataAcessLayer\\aspdotnetcore5.DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
+        "outputPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.DataAcessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.Domain\\aspdotnetcore5.Domain.csproj": {
+                "projectPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.Domain\\aspdotnetcore5.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.Domain\\aspdotnetcore5.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.Domain\\aspdotnetcore5.Domain.csproj",
+        "projectName": "aspdotnetcore5.Domain",
+        "projectPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.Domain\\aspdotnetcore5.Domain.csproj",
+        "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
+        "outputPath": "C:\\p\\aspnetcore\\hospital\\Hospital-Management-System-ASPNETCORE\\src\\aspdotnetcore5.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
