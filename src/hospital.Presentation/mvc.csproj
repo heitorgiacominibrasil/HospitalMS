@@ -21,8 +21,4 @@
     <ProjectReference Include="..\hospital.Domain\hospital.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="ViewComponents\CabecaclhoModulos\" />
-  </ItemGroup>
-
 </Project>

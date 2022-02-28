@@ -91,8 +91,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/hospital/v1/src/hospital.Presentation/Views/Shared/Components/CabecalhoModulo/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FiZWNhbGhvTW9kdWxvXERlZmF1bHQuY3NodG1s
+[C:/p/net/hospital/v1/src/hospital.Presentation/Views/Shared/Components/Cabecalho/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FiZWNhbGhvXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/p/net/hospital/v1/src/hospital.Presentation/Views/Shared/Components/EstadoCritico/Default.cshtml]
@@ -105,10 +105,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/p/net/hospital/v1/src/hospital.Presentation/Views/Shared/Components/EstadoGrave/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXN0YWRvR3JhdmVcRGVmYXVsdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/p/net/hospital/v1/src/hospital.Presentation/Views/Shared/Components/EstadoObservacaoViewComponent/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXN0YWRvT2JzZXJ2YWNhb1ZpZXdDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/p/net/hospital/v1/src/hospital.Presentation/Views/Shared/Components/EstadoObservacao/Default.cshtml]

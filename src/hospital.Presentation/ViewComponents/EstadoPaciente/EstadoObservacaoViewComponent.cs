@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using hospital.DataAcessLayer.ORM;
+using Microsoft.AspNetCore.Mvc;
 using mvc.ViewComponents.Helpers;
 
 namespace mvc.ViewComponents.EstadoPaciente
@@ -6,15 +7,15 @@ namespace mvc.ViewComponents.EstadoPaciente
     [ViewComponent(Name = "EstadoObservacao")]
     public class EstadoObservacaoViewComponent : ViewComponent
     {
-        public EstadoObservacaoViewComponent()
+        private readonly HospitalDbContext _context;
+        public EstadoObservacaoViewComponent(HospitalDbContext context)
         {
+            _context = context;
         }
-
-        //public IViewComponentResult InvokeAsync() {
-        public async Task<IViewComponentResult> InvokeAsync() {
-        
-            var totalGeral  = Util.TotalRegistro();
-            decimal estadoTotal = Util.GetNumeroRegistroEstado();
+        public async Task<IViewComponentResult> InvokeAsync()
+        {
+            var totalGeral = Util.TotalRegistro(_context);
+            decimal estadoTotal = Util.GetNumeroRegistroEstado(_context, "Observação");
             decimal progress = (estadoTotal / totalGeral) * 100;
             var porcentagem = progress.ToString("F1");
 
