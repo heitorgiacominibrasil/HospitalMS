@@ -6,11 +6,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace n1.Controllers
 {
-    public class EstadoPacientesController : Controller
+    public class EstadoPacienteController : Controller
     {
         private readonly HospitalDbContext _context;
 
-        public EstadoPacientesController(HospitalDbContext context)
+        public EstadoPacienteController(HospitalDbContext context)
         {
             _context = context;
         }

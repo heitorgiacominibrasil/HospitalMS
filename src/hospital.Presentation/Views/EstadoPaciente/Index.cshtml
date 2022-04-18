@@ -12,7 +12,10 @@
         <p>
             <a asp-action="Create">Create New</a>
         </p>
-        <table class="table">
+
+          <table-grid items="@Model"></table-grid>
+
+        @*<table class="table">
             <thead>
                 <tr>
                     <th>
@@ -36,6 +39,6 @@
                     </tr>
                 }
             </tbody>
-        </table>
+        </table>*@
     </div>
 </div>

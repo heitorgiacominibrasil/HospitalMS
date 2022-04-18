@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\p\\net\\hospital\\v1\\src\\hospital.Presentation\\mvc.csproj": {}
+    "C:\\p\\net\\HospitalMS\\src\\hospital.Presentation\\mvc.csproj": {}
   },
   "projects": {
-    "C:\\p\\net\\hospital\\v1\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj": {
+    "C:\\p\\net\\HospitalMS\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\p\\net\\hospital\\v1\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj",
+        "projectUniqueName": "C:\\p\\net\\HospitalMS\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj",
         "projectName": "hospital.DataAcessLayer",
-        "projectPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj",
-        "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
-        "outputPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.DataAcessLayer\\obj\\",
+        "projectPath": "C:\\p\\net\\HospitalMS\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\p\\net\\HospitalMS\\src\\hospital.DataAcessLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj": {
-                "projectPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj"
+              "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj": {
+                "projectPath": "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj"
               }
             }
           }
@@ -76,24 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj": {
+    "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj",
+        "projectUniqueName": "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj",
         "projectName": "hospital.Domain",
-        "projectPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj",
-        "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
-        "outputPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\obj\\",
+        "projectPath": "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -133,24 +127,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\p\\net\\hospital\\v1\\src\\hospital.Presentation\\mvc.csproj": {
+    "C:\\p\\net\\HospitalMS\\src\\hospital.Presentation\\mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\p\\net\\hospital\\v1\\src\\hospital.Presentation\\mvc.csproj",
+        "projectUniqueName": "C:\\p\\net\\HospitalMS\\src\\hospital.Presentation\\mvc.csproj",
         "projectName": "mvc",
-        "projectPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.Presentation\\mvc.csproj",
-        "packagesPath": "C:\\Users\\unnamed\\.nuget\\packages\\",
-        "outputPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.Presentation\\obj\\",
+        "projectPath": "C:\\p\\net\\HospitalMS\\src\\hospital.Presentation\\mvc.csproj",
+        "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+        "outputPath": "C:\\p\\net\\HospitalMS\\src\\hospital.Presentation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\unnamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,11 +155,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\p\\net\\hospital\\v1\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj": {
-                "projectPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj"
+              "C:\\p\\net\\HospitalMS\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj": {
+                "projectPath": "C:\\p\\net\\HospitalMS\\src\\hospital.DataAcessLayer\\hospital.DataAcessLayer.csproj"
               },
-              "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj": {
-                "projectPath": "C:\\p\\net\\hospital\\v1\\src\\hospital.Domain\\hospital.Domain.csproj"
+              "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj": {
+                "projectPath": "C:\\p\\net\\HospitalMS\\src\\hospital.Domain\\hospital.Domain.csproj"
               }
             }
           }
@@ -215,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
