@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hospital.Domain", "src\hosp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mvc", "src\hospital.Presentation\mvc.csproj", "{76F5C9AE-A686-4E56-8B89-8F627909889C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hospital.DomainCore", "src\hospital.DomainCore\hospital.DomainCore.csproj", "{DBF9D83E-B49E-4C84-91BA-05CB9A458F11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F5C9AE-A686-4E56-8B89-8F627909889C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF9D83E-B49E-4C84-91BA-05CB9A458F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF9D83E-B49E-4C84-91BA-05CB9A458F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF9D83E-B49E-4C84-91BA-05CB9A458F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF9D83E-B49E-4C84-91BA-05CB9A458F11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +55,7 @@ Global
 		{51723E67-33BE-4BC2-9B33-1FC434DB9394} = {79DF5615-7E14-49C7-8FA1-3204B11F8F17}
 		{6C43EB11-AF05-4926-A94E-5D24E0D81784} = {3941A170-102A-4300-B2EF-5F62E8410C7C}
 		{76F5C9AE-A686-4E56-8B89-8F627909889C} = {603DA44C-9D7A-47C0-8BD8-418A58122B1B}
+		{DBF9D83E-B49E-4C84-91BA-05CB9A458F11} = {3941A170-102A-4300-B2EF-5F62E8410C7C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBACD6A6-F226-43CD-B621-135B69B5828C}

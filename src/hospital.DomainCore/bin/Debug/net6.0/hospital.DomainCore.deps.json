@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hospital.DomainCore/1.0.0": {
+        "runtime": {
+          "hospital.DomainCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hospital.DomainCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

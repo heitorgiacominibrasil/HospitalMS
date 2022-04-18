@@ -1,0 +1,12 @@
+C:\p\net\HospitalMS\src\hospital.DomainCore\bin\Debug\net6.0\hospital.DomainCore.deps.json
+C:\p\net\HospitalMS\src\hospital.DomainCore\bin\Debug\net6.0\hospital.DomainCore.dll
+C:\p\net\HospitalMS\src\hospital.DomainCore\bin\Debug\net6.0\hospital.DomainCore.pdb
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.csproj.AssemblyReference.cache
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.AssemblyInfoInputs.cache
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.AssemblyInfo.cs
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.csproj.CoreCompileInputs.cache
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.dll
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\refint\hospital.DomainCore.dll
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\hospital.DomainCore.pdb
+C:\p\net\HospitalMS\src\hospital.DomainCore\obj\Debug\net6.0\ref\hospital.DomainCore.dll
