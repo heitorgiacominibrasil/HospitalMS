@@ -1,21 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using hospital.DataAcessLayer.ORM;
+using hospital.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using hospital;
-using hospital.Domain.Models;
-using hospital.DataAcessLayer.ORM;
 
 namespace mvc.Controllers
 {
-    public class PacientesController : Controller
+    public class PacienteController : Controller
     {
         private readonly HospitalDbContext _context;
 
-        public PacientesController(HospitalDbContext context)
+        public PacienteController(HospitalDbContext context)
         {
             _context = context;
         }
@@ -47,8 +42,8 @@ namespace mvc.Controllers
         // GET: Pacientes/Create
         public IActionResult Create()
         {
-            ViewBag.PacienteEstadoPaciente = new SelectList(_context.EstadoPaciente,"Id","Descricao");
-            
+            ViewBag.PacienteEstadoPaciente = new SelectList(_context.EstadoPaciente, "Id", "Descricao");
+
             //ViewData["PacienteEstadoPaciente"] = new SelectList(_context.EstadoPaciente, "Id", "Descricao");
             //razor component tem que ser => <select asp-for="EstadoPaciente" asp-items="@ViewBag.PacienteEstadoPaciente" class="form-control">
             return View();
@@ -69,7 +64,7 @@ namespace mvc.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewBag.EstadoPaciente = new SelectList(_context.EstadoPaciente, "id", "Descricao",paciente.EstadoPacienteId);
+            ViewBag.EstadoPaciente = new SelectList(_context.EstadoPaciente, "id", "Descricao", paciente.EstadoPacienteId);
             return View(paciente);
         }
 

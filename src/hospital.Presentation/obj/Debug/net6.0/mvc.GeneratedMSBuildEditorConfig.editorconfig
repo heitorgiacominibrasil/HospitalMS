@@ -55,32 +55,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/_delete_details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXF9kZWxldGVfZGV0YWlscy5jc2h0bWw=
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/_delete_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcX2RlbGV0ZV9kZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Pacientes/_edit_create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXF9lZGl0X2NyZWF0ZS5jc2h0bWw=
+[C:/p/net/HospitalMS/src/hospital.Presentation/Views/Paciente/_edit_create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcX2VkaXRfY3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/p/net/HospitalMS/src/hospital.Presentation/Views/Product/Index.cshtml]

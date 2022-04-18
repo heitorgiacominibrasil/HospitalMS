@@ -1,4 +1,5 @@
-﻿@model IEnumerable<hospital.Domain.Models.Paciente>
+﻿@using mvc.Extensions.ExtensionsMethods
+@model IEnumerable<hospital.Domain.Models.Paciente>
 
 @{
     ViewData["Title"] = "Index";
@@ -62,12 +63,13 @@
             <tbody>
                 @foreach (var item in Model)
                 {
+                    var dataNascimentoPtBr = item.DataNascimento.ToBrazilianDate();
                     <tr>
                         <td>
                             @Html.DisplayFor(modelItem => item.Nome)
                         </td>
                         <td>
-                            @Html.DisplayFor(modelItem => item.DataNascimento)
+                            @dataNascimentoPtBr
                         </td>
                         <td>
                             @Html.DisplayFor(modelItem => item.DataInternacao)
